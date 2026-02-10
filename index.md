@@ -1,46 +1,84 @@
-Last updated: February 2026 
-1. Introduction
-Budget Gadget Finds (“we”, “our”, or “the app”) respects your privacy.
+```md
+# Privacy Policy – Budget Gadget Finds App
+
+**Last updated:** February 2026
+
+---
+
+## 1. Introduction
+
+Budget Gadget Finds (“we”, “our”, or “the app”) respects your privacy.  
 This Privacy Policy explains how information is handled when using our Pinterest pin generation and publishing tool.
 
-2. Information We Collect
+---
+
+## 2. Information We Collect
 
 We may collect:
-    Pinterest account authentication data (via secure OAuth)
-    Basic usage data related to pin creation and publishing
-    Product links voluntarily provided by the user
 
-We do not collect sensitive personal information such as passwords, payment details, or private messages.
+- Pinterest account authentication data obtained through secure OAuth authorization  
+- Basic usage data related to pin creation, scheduling, and publishing  
+- Product links or content voluntarily provided by the user  
 
-3. How Information Is Used
+We **do not** collect sensitive personal information such as passwords, payment details, or private messages.
+
+---
+
+## 3. How Information Is Used
 
 Collected information is used only to:
-    Generate Pinterest pin titles, descriptions, and images
-    Publish pins to the authenticated user’s own Pinterest boards
-    Improve app functionality and reliability
 
-We do not sell, rent, or share personal data with third parties.
+- Generate Pinterest pin titles, descriptions, and images  
+- Publish pins to the authenticated user’s own Pinterest boards  
+- Improve application functionality, reliability, and performance  
 
-4. Third-Party Services
+We **do not sell, rent, or share** personal data with third parties.
 
-This app interacts with:
-    Pinterest API for pin publishing and analytics
-    AI services for generating text or images
+---
 
-These services operate under their own privacy policies.
+## 4. Third-Party Services
 
-5. Data Storage and Security
-We aim to store minimal data and apply reasonable technical safeguards to protect information from unauthorized access.
+This app interacts with external services including:
 
-6. User Control
-Users may stop using the app at any time and revoke Pinterest access through their Pinterest account settings.
+- **Pinterest API** for authentication, pin publishing, and analytics  
+- **AI content generation services** for creating text or images  
 
-7. Changes to This Policy
-We may update this Privacy Policy when needed.
-Updated versions will include a revised “Last updated” date.
+These third-party services operate under their own privacy policies.
 
-8. Contact
-For questions about this Privacy Policy, contact:
+---
 
-Budget Gadget Finds
-Email: rishisharmaiitr@gmail.com
+## 5. Data Storage and Security
+
+We aim to store minimal user data and apply reasonable technical safeguards to protect information from unauthorized access, misuse, or disclosure.
+
+---
+
+## 6. User Control and Revocation
+
+Users may:
+
+- Stop using the app at any time  
+- Revoke Pinterest access through their Pinterest account settings  
+
+Once access is revoked, the app will no longer be able to create or manage pins on the user’s behalf.
+
+---
+
+## 7. Changes to This Policy
+
+We may update this Privacy Policy when necessary.  
+Any updates will include a revised **“Last updated”** date at the top of this page.
+
+---
+
+## 8. Contact Information
+
+For questions regarding this Privacy Policy, contact:
+
+**Budget Gadget Finds**  
+Email: **rishisharmaiitr@gmail.com**
+
+---
+
+**End of Privacy Policy**
+```
