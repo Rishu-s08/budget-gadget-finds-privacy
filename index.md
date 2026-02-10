@@ -1,4 +1,3 @@
-```md
 # Privacy Policy – Budget Gadget Finds App
 
 **Last updated:** February 2026
@@ -81,4 +80,3 @@ Email: **rishisharmaiitr@gmail.com**
 ---
 
 **End of Privacy Policy**
-```
